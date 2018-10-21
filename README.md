@@ -10,3 +10,5 @@
 4.爬取NBA中文网近20年的球员数据，以.CSV格式保存入电脑
 
 实现效果如下：
+
+ ![image](https://github.com/gougou-Hub/Scrapy_hupu_news/tree/master/Results_images/news_data.JPG)
