@@ -11,4 +11,4 @@
 
 实现效果如下：
 
- ![image](https://github.com/gougou-Hub/Scrapy_hupu_news/tree/master/Results_images/news_data.png)
+ ![image](https://github.com/gougou-Hub/Scrapy_hupu_news/blob/master/Results_images/news_data.png);
