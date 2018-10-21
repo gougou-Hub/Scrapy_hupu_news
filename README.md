@@ -21,4 +21,9 @@ MYSQL数据库：
  
  本地电脑：
  
+ ![image](https://github.com/gougou-Hub/Scrapy_hupu_news/blob/master/Results_images/news_packages.png)
+ 
+ ![image](https://github.com/gougou-Hub/Scrapy_hupu_news/blob/master/Results_images/Team_pic.png)
+ 
+ ![image](https://github.com/gougou-Hub/Scrapy_hupu_news/blob/master/Results_images/Team_pic2.png)
  
