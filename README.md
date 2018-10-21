@@ -11,7 +11,14 @@
 
 实现效果如下：
 
+MYSQL数据库：
+
 
  ![image](https://github.com/gougou-Hub/Scrapy_hupu_news/blob/master/Results_images/news_data.png)
  
-  ![image](https://github.com/gougou-Hub/Scrapy_hupu_news/blob/master/Results_images/player_data.JPG)
+ ![image](https://github.com/gougou-Hub/Scrapy_hupu_news/blob/master/Results_images/player_data.JPG)
+ 
+ 
+ 本地电脑：
+ 
+ 
